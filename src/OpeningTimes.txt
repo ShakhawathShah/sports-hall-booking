@@ -1,0 +1,7 @@
+Monday,7am-9pm
+Tuesday,7am-8pm
+Wednesday,7am-8pm
+Thursday,7am-8pm
+Friday,8am-10pm
+Saturday,7am-10pm
+Sunday,9am-6pm
